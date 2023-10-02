@@ -11,6 +11,8 @@ import {
   Patch,
   Post,
   Query,
+  Req,
+  Res,
 } from '@nestjs/common';
 
 @Controller('movies')
