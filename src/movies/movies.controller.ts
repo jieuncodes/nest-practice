@@ -10,9 +10,6 @@ import {
   Param,
   Patch,
   Post,
-  Query,
-  Req,
-  Res,
 } from '@nestjs/common';
 
 @Controller('movies')
